@@ -1,0 +1,288 @@
+<map version="freeplane 1.7.0">
+<!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
+<attribute_registry SHOW_ATTRIBUTES="hide"/>
+<node FOLDED="false" ID="ID_1379552422" CREATED="1572441029007" MODIFIED="1572454645732" COLOR="#ff9900"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>PROGN&#211;STICO</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+<hook NAME="MapStyle" zoom="0.909">
+    <properties fit_to_viewport="false" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff"/>
+
+<map_styles>
+<stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt">
+<font SIZE="24"/>
+<stylenode LOCALIZED_TEXT="styles.predefined" POSITION="right" STYLE="bubble">
+<stylenode LOCALIZED_TEXT="default" ICON_SIZE="12.0 pt" COLOR="#000000" STYLE="fork">
+<font NAME="SansSerif" SIZE="10" BOLD="false" ITALIC="false"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="defaultstyle.details"/>
+<stylenode LOCALIZED_TEXT="defaultstyle.attributes">
+<font SIZE="9"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="defaultstyle.note" COLOR="#000000" BACKGROUND_COLOR="#ffffff" TEXT_ALIGN="LEFT"/>
+<stylenode LOCALIZED_TEXT="defaultstyle.floating">
+<edge STYLE="hide_edge"/>
+<cloud COLOR="#f0f0f0" SHAPE="ROUND_RECT"/>
+</stylenode>
+</stylenode>
+<stylenode LOCALIZED_TEXT="styles.user-defined" POSITION="right" STYLE="bubble">
+<stylenode LOCALIZED_TEXT="styles.topic" COLOR="#18898b" STYLE="fork">
+<font NAME="Liberation Sans" SIZE="10" BOLD="true"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="styles.subtopic" COLOR="#cc3300" STYLE="fork">
+<font NAME="Liberation Sans" SIZE="10" BOLD="true"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="styles.subsubtopic" COLOR="#669900">
+<font NAME="Liberation Sans" SIZE="10" BOLD="true"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="styles.important">
+<icon BUILTIN="yes"/>
+</stylenode>
+</stylenode>
+<stylenode LOCALIZED_TEXT="styles.AutomaticLayout" POSITION="right" STYLE="bubble">
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level.root" COLOR="#000000" STYLE="oval" SHAPE_HORIZONTAL_MARGIN="10.0 pt" SHAPE_VERTICAL_MARGIN="10.0 pt">
+<font SIZE="18"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,1" COLOR="#0033ff">
+<font SIZE="16"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,2" COLOR="#00b439">
+<font SIZE="14"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,3" COLOR="#990000">
+<font SIZE="12"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,4" COLOR="#111111">
+<font SIZE="10"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,5"/>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,6"/>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,7"/>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,8"/>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,9"/>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,10"/>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,11"/>
+</stylenode>
+</stylenode>
+</map_styles>
+</hook>
+<node TEXT="proje&#xe7;&#xf5;es" POSITION="right" ID="ID_1408651809" CREATED="1572441039833" MODIFIED="1572452725177" HGAP_QUANTITY="11.750000067055243 pt" VSHIFT_QUANTITY="-1.4999999552965217 pt"><richcontent TYPE="DETAILS">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      2019-2039
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="popula&#xe7;&#xe3;o" ID="ID_636914517" CREATED="1572441044305" MODIFIED="1572441974158">
+<node TEXT="total" ID="ID_1370711883" CREATED="1572441097665" MODIFIED="1572441102975"/>
+<node TEXT="urbana" ID="ID_1151154228" CREATED="1572441108117" MODIFIED="1572441112490"/>
+<node TEXT="rural" ID="ID_1316267375" CREATED="1572441114228" MODIFIED="1572441116832"/>
+</node>
+<node TEXT="classe res&#xed;duos" ID="ID_1333000639" CREATED="1572441050462" MODIFIED="1572442938776">
+<node TEXT="total" ID="ID_849485869" CREATED="1572441278394" MODIFIED="1572441281080"/>
+<node TEXT="per capta" ID="ID_416159098" CREATED="1572441282779" MODIFIED="1572442814513" HGAP_QUANTITY="27.499999597668662 pt" VSHIFT_QUANTITY="1.4999999552965178 pt"/>
+</node>
+<node TEXT="cen&#xe1;rios" ID="ID_959924248" CREATED="1572441338031" MODIFIED="1572442944025" HGAP_QUANTITY="19.249999843537836 pt" VSHIFT_QUANTITY="-4.499999865889549 pt">
+<node TEXT="" ID="ID_1643682419" CREATED="1572444284357" MODIFIED="1572444284357">
+<hook NAME="FirstGroupNode"/>
+</node>
+<node TEXT="sem plano/medidas" ID="ID_553847812" CREATED="1572441361829" MODIFIED="1572441371426"/>
+<node TEXT="com plano/medidas" ID="ID_1029419276" CREATED="1572441373261" MODIFIED="1572441382354"/>
+<node TEXT="" ID="ID_1508597262" CREATED="1572444284357" MODIFIED="1572444294011">
+<hook NAME="SummaryNode"/>
+<hook NAME="AlwaysUnfoldedNode"/>
+<node TEXT="Custos" ID="ID_1945928516" CREATED="1572444284357" MODIFIED="1572444294009" HGAP_QUANTITY="61.99999856948857 pt" VSHIFT_QUANTITY="-8.249999754130847 pt"/>
+</node>
+</node>
+</node>
+<node TEXT="insumo" LOCALIZED_STYLE_REF="defaultstyle.floating" POSITION="right" ID="ID_1326544317" CREATED="1572448176005" MODIFIED="1572452934430" HGAP_QUANTITY="682.4999796599157 pt" VSHIFT_QUANTITY="42.74999872595075 pt">
+<hook NAME="FreeNode"/>
+<node TEXT="plantios" ID="ID_1325788474" CREATED="1572448256395" MODIFIED="1572448261965"/>
+<node TEXT="viveiros" ID="ID_1188618074" CREATED="1572448264407" MODIFIED="1572452934429" HGAP_QUANTITY="13.250000022351747 pt" VSHIFT_QUANTITY="-2.9999999105930355 pt">
+<node TEXT="Toyota" ID="ID_768825986" CREATED="1572448268886" MODIFIED="1572448499688" HGAP_QUANTITY="29.749999530613437 pt" VSHIFT_QUANTITY="5.999999821186069 pt"/>
+</node>
+</node>
+<node TEXT="Estrat&#xe9;gias" POSITION="right" ID="ID_1151260043" CREATED="1572443064543" MODIFIED="1572452717545">
+<node TEXT="Redu&#xe7;&#xe3;o RS" ID="ID_1595396703" CREATED="1572355905068" MODIFIED="1572452717544" HGAP_QUANTITY="14.749999977648258 pt" VSHIFT_QUANTITY="18.749999441206473 pt"><richcontent TYPE="DETAILS">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Objetivos/Metas
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="Classe de res&#xed;duos" ID="ID_1841805996" CREATED="1572447607184" MODIFIED="1572447627725">
+<node TEXT="Coleta seletiva" ID="ID_1739015702" CREATED="1572355943134" MODIFIED="1572446775202" HGAP_QUANTITY="31.249999485909953 pt" VSHIFT_QUANTITY="12.7499996200204 pt">
+<node TEXT="Catadores" ID="ID_641376173" CREATED="1572443745747" MODIFIED="1572444615524"><richcontent TYPE="DETAILS">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Passam antes da coleta, n&#227;o confiam no poder p&#250;blico, n&#227;o h&#225; informa&#231;&#245;es do que fazem com o RS, atualmente independentes
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="" ID="ID_667223606" CREATED="1572446536821" MODIFIED="1572446536823">
+<hook NAME="FirstGroupNode"/>
+</node>
+<node TEXT="Independentes" ID="ID_642661704" CREATED="1572443754837" MODIFIED="1572443761461"/>
+<node TEXT="Cooperados" ID="ID_57189939" CREATED="1572443764115" MODIFIED="1572443802679"/>
+<node TEXT="" ID="ID_250798194" CREATED="1572446536818" MODIFIED="1572446546077">
+<hook NAME="SummaryNode"/>
+<hook NAME="AlwaysUnfoldedNode"/>
+<node TEXT="Capacita&#xe7;&#xe3;o" ID="ID_687649882" CREATED="1572446536825" MODIFIED="1572446546075" HGAP_QUANTITY="42.49999915063384 pt" VSHIFT_QUANTITY="-7.499999776482589 pt"/>
+</node>
+</node>
+<node ID="ID_1676092131" CREATED="1572444006854" MODIFIED="1572447831762"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#990066"><b>PETV</b></font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<richcontent TYPE="DETAILS">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Ponto de entrega e troca volunt&#225;ria</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="Log&#xed;stica Reversa" ID="ID_1523664021" CREATED="1572444011952" MODIFIED="1572444019371">
+<node TEXT="Obrigat&#xf3;ria" ID="ID_859918031" CREATED="1572446951912" MODIFIED="1572446959313"/>
+<node TEXT="N&#xe3;o obrigat&#xf3;ria/Parcerias" ID="ID_1744749127" CREATED="1572446961339" MODIFIED="1572446973042"/>
+</node>
+<node TEXT="Compostagem" ID="ID_697768349" CREATED="1572355928283" MODIFIED="1572448554526" HGAP_QUANTITY="16.0 px" VSHIFT_QUANTITY="36.0 px">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1326544317" STARTINCLINATION="104;83;" ENDINCLINATION="16;99;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<node TEXT="" ID="ID_1255826941" CREATED="1572453172762" MODIFIED="1572453172764">
+<hook NAME="FirstGroupNode"/>
+</node>
+<node TEXT="comunit&#xe1;ria" ID="ID_1055996844" CREATED="1572355980762" MODIFIED="1572357905317"/>
+<node TEXT="privada" ID="ID_1626309227" CREATED="1572355990114" MODIFIED="1572447607324" HGAP_QUANTITY="45.0 px" VSHIFT_QUANTITY="3.0 px">
+<arrowlink SHAPE="LINE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1626309227" STARTINCLINATION="0;0;" ENDINCLINATION="0;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
+<node TEXT="p&#xfa;blica" ID="ID_1450003700" CREATED="1572355998450" MODIFIED="1572358853324">
+<node TEXT="licenciamento" ID="ID_110567838" CREATED="1572889656751" MODIFIED="1572889667302"/>
+</node>
+<node TEXT="" ID="ID_1375886370" CREATED="1572453172760" MODIFIED="1572453181772">
+<hook NAME="SummaryNode"/>
+<hook NAME="AlwaysUnfoldedNode"/>
+<node TEXT="T&#xe9;cnicas" ID="ID_271004290" CREATED="1572453172765" MODIFIED="1572453181771" HGAP_QUANTITY="44.749999083578615 pt" VSHIFT_QUANTITY="-10.499999687075624 pt"/>
+</node>
+</node>
+<node TEXT="Parcerias" ID="ID_1607999046" CREATED="1572446866527" MODIFIED="1572446873363">
+<node TEXT="Programa de pontos" ID="ID_1194965156" CREATED="1572446873382" MODIFIED="1572446884527"/>
+<node TEXT="Tecidos" ID="ID_1135235450" CREATED="1572446886279" MODIFIED="1572446938657"/>
+</node>
+</node>
+<node TEXT="ODS" ID="ID_1904494210" CREATED="1572446594575" MODIFIED="1572446668084"><richcontent TYPE="DETAILS">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      2, 4, 6, 11, 12
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="Incentivos" ID="ID_1853522032" CREATED="1572446998678" MODIFIED="1572447009010">
+<node TEXT="Pessoas" ID="ID_1714538053" CREATED="1572447009031" MODIFIED="1572447012385"/>
+<node TEXT="Empresas" ID="ID_1740032768" CREATED="1572447013609" MODIFIED="1572447016120">
+<node TEXT="Cria&#xe7;&#xe3;o" ID="ID_982514409" CREATED="1572453971674" MODIFIED="1572453980409"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="Trasporte" ID="ID_1801191946" CREATED="1572457002672" MODIFIED="1572457013601">
+<node TEXT="Caminh&#xf5;es" ID="ID_1409176329" CREATED="1572444096293" MODIFIED="1572444135629">
+<node TEXT="Rota" ID="ID_1776007987" CREATED="1572444135644" MODIFIED="1572444138657"/>
+<node TEXT="Manuten&#xe7;&#xe3;o" ID="ID_156094820" CREATED="1572444140578" MODIFIED="1572444160569">
+<node TEXT="" ID="ID_1558511971" CREATED="1572447041757" MODIFIED="1572447041759">
+<hook NAME="FirstGroupNode"/>
+</node>
+<node TEXT="Limpeza" ID="ID_16761694" CREATED="1572444364681" MODIFIED="1572444384639"/>
+<node TEXT="Preventiva" ID="ID_1907415799" CREATED="1572444386717" MODIFIED="1572444389887"/>
+<node TEXT="Corretiva" ID="ID_981573023" CREATED="1572444391634" MODIFIED="1572444396512"/>
+<node TEXT="" ID="ID_1132982380" CREATED="1572447041754" MODIFIED="1572452979971">
+<hook NAME="SummaryNode"/>
+<hook NAME="AlwaysUnfoldedNode"/>
+<node TEXT="Custos" ID="ID_111504903" CREATED="1572447041760" MODIFIED="1572452979970" HGAP_QUANTITY="41.749999172985575 pt" VSHIFT_QUANTITY="-9.749999709427366 pt"/>
+</node>
+</node>
+</node>
+<node TEXT="Regras" ID="ID_477584069" CREATED="1572457058556" MODIFIED="1572457061416"/>
+</node>
+<node TEXT="Divulga&#xe7;&#xe3;o/Interlocu&#xe7;&#xe3;o" ID="ID_1649137623" CREATED="1572446251766" MODIFIED="1572446846765"/>
+<node TEXT="Educa&#xe7;&#xe3;o Ambiental" ID="ID_1136875716" CREATED="1572446351092" MODIFIED="1572446360136"/>
+<node TEXT="Universaliza&#xe7;&#xe3;o" ID="ID_1647245118" CREATED="1572448735945" MODIFIED="1572452712884" HGAP_QUANTITY="13.250000022351742 pt" VSHIFT_QUANTITY="-68.24999796599155 pt"/>
+</node>
+<node TEXT="Aplica&#xe7;&#xe3;o" POSITION="left" ID="ID_616074484" CREATED="1572443357292" MODIFIED="1572447239843" HGAP_QUANTITY="15.499999955296518 pt" VSHIFT_QUANTITY="-56.249998323619415 pt">
+<node TEXT="Revis&#xe3;o" ID="ID_430160517" CREATED="1572443368792" MODIFIED="1572443382793"/>
+<node TEXT="Parceria" ID="ID_885503285" CREATED="1572443384247" MODIFIED="1572443390246"/>
+<node TEXT="Capacita&#xe7;&#xe3;o t&#xe9;cnica" ID="ID_264794233" CREATED="1572443407510" MODIFIED="1572443417882"/>
+</node>
+<node TEXT="Responsabilidades" POSITION="left" ID="ID_997709902" CREATED="1572447177790" MODIFIED="1572870335764" HGAP_QUANTITY="17.749999888241295 pt" VSHIFT_QUANTITY="71.24999787658459 pt"><richcontent TYPE="DETAILS">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Art 20&#186; PNRS
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="Implementa&#xe7;&#xe3;o" ID="ID_1986932330" CREATED="1572870290216" MODIFIED="1572870295720"/>
+<node TEXT="Operacionaliza&#xe7;&#xe3;o" ID="ID_1106821913" CREATED="1572870297283" MODIFIED="1572870302633"/>
+</node>
+<node TEXT="A&#xe7;&#xf5;es" POSITION="left" ID="ID_168182722" CREATED="1572454567209" MODIFIED="1572454645731" HGAP_QUANTITY="4.250000290572634 pt" VSHIFT_QUANTITY="23.999999284744284 pt">
+<node TEXT="Preventivas" ID="ID_600884170" CREATED="1572454617901" MODIFIED="1572454622256"/>
+<node TEXT="Corretivas" ID="ID_442373379" CREATED="1572454623782" MODIFIED="1572454626893"/>
+<node TEXT="Emerg&#xea;ncia" ID="ID_1201363222" CREATED="1572454628944" MODIFIED="1572454634662"/>
+<node TEXT="Conting&#xea;ncia" ID="ID_1742094727" CREATED="1572454636436" MODIFIED="1572454640338"/>
+</node>
+</node>
+</map>
