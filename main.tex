@@ -1,6 +1,9 @@
 \documentclass[12pt,oneside]{pmgirs}
 
 \usepackage[alf]{abntex2cite}	% citacoes
+\usepackage[normalem]{ulem} %texto riscado sem alterar outras fontes
+
+\newcolumntype{P}[1]{>{\centering\arraybackslash}p{#1}} %para centralizar as colunas nas tabelas
 
 \usetikzlibrary{calc}
 
@@ -13,10 +16,10 @@
 \setlength{\parindent}{0cm}
 %Customizar de Acordo com o produto a ser submetido
 
-\renewcommand{\nomeProduto}{Produto 1 - Legislação Preliminar}
+%\renewcommand{\nomeProduto}{Produto 1 - Legislação Preliminar}
 %\renewcommand{\nomeProduto}{Produto 2 - Caracterização Municipal}
 %\renewcommand{\nomeProduto}{Produto 3 - Diagnóstico Municipal Participativo}
-%\renewcommand{\nomeProduto}{Produto 4 - Prognóstico}
+\renewcommand{\nomeProduto}{Produto 4 - Prognóstico}
 \renewcommand{\nomeMunicipio}{Monteiro Lobato} 
 \renewcommand{\mes}{Novembro}
 \renewcommand{\ano}{2019}
@@ -56,10 +59,10 @@
 	% ------------
 	% PRODUTOS
 	% ------------
-	\include{produtos/produm}
+	%\include{produtos/produm}
 	%\include{produtos/proddois}
 	%\include{produtos/prodtres}
-	%\include{produtos/prodquatro}
+	\include{produtos/prodquatro}
 
 	% ------------
 	% FIM PRODUTOS
@@ -79,7 +82,7 @@
 \addcontentsline{toc}{section}{Apêndices}
 \apendices
 	\BeginNoToc
-	\input{produm-apend}
+	%\input{produm-apend}
 	%\input{prodtres-apend}
 	\EndNoToc
 %
@@ -87,7 +90,7 @@
 \addcontentsline{toc}{section}{Anexos}
 \anexos
 	\BeginNoToc
-	\input{produm-anexo}\thispagestyle{headfootimage}
+	%\input{produm-anexo}\thispagestyle{headfootimage}
 	\EndNoToc
 	\include{src/layout/capafim}
 
